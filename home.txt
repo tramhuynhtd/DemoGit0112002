@@ -1,0 +1,3 @@
+tạo 1 nhánh mới đặt tên "tên-họ". Ví dụ: "tram-huynh"
+thêm 1 dòng họ tên vào file1.txt. Ví dụ: "Huỳnh Trâm"
+Tạo Pull request từ nhánh "tên-họ"
